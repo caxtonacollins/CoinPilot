@@ -1,8 +1,7 @@
 # CoinPilot
 
 **AI-Powered Financial Autopilot on Stellar**
-
-![Logo]([https://ipfs.io/ipfs/bafkreie66ht6qors2fwlwihbbobx6umvdppyyxg4rb4fseto5u4fjvknqu](https://purple-accessible-swift-921.mypinata.cloud/ipfs/bafybeicmklya2ltxtvjgopqi6syteuj4b52yhd3zlybzxpdfuaudhf6shm))
+![LOGO](https://purple-accessible-swift-921.mypinata.cloud/ipfs/bafybeicmklya2ltxtvjgopqi6syteuj4b52yhd3zlybzxpdfuaudhf6shm)
 
 CoinPilot is a smart stablecoin wallet built on Stellar that enables users to automate payments, savings, and currency conversions using programmable rules and AI.
 
